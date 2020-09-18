@@ -1,0 +1,39 @@
+@media only screen and (min-width: 768px) {
+    .header {
+        width: 100%;
+    }
+    .h1 {
+        width:65%;
+        float: left;
+    }
+    .nav {
+        margin-top: 5px;
+        width: 35%;
+        float: right;
+    }
+    .head1 {
+        margin-left: 20px;
+        font-size: 65px;
+    }
+    .p1 {
+        margin-left: 28px;
+    }
+    .p2 {
+        margin-left: 15px;
+    
+    }
+    .p3 {
+        text-align: center;
+    }
+    .container2 {
+        width: 100%;
+    }
+    .sub1 {
+        width: 50%;
+        float: left;
+    }
+    .sub2 {
+        width: 50%;
+        float: right ;
+    }
+}

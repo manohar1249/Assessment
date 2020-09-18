@@ -1,0 +1,80 @@
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+@media only screen and (min-width: 1050px) {
+    .container {
+        width: 100%;
+    }
+    .sub1 {
+        width: 100%;
+    }
+    .i1 {
+        width: 100%;
+        float: left;
+    }
+    .i2 {
+        width: 100%;
+        float: left;
+    }
+    .i3 {
+        width: 100%;
+        float: left;
+    }
+    .sub2 {
+        width: 100%;
+    }
+    .i4 {
+        width: 100%;
+        float: left;
+    }
+    .i5 {
+        width: 100%;
+        float: left;
+    }
+    .i6 {
+        width: 100%;
+        float: left;
+    }
+    
+}
+@media only screen and (min-width: 750px) {
+    .container {
+        width: 100%;
+    }
+    .sub1 {
+        width: 100%;
+    }
+    .i1 {
+        width: 100%;
+        float: left;
+    }
+    .i2 {
+        width: 100%;
+        float: left;
+    }
+    .i3 {
+        width: 100%;
+        float: left;
+    }
+    .sub2 {
+        width: 100%;
+    }
+    .i4 {
+        width: 100%;
+        float: left;
+    }
+    .i5 {
+        width: 100%;
+        float: left;
+    }
+    .i6 {
+        width: 100%;
+        float: left;
+    }
+    
+}

@@ -1,0 +1,196 @@
+.container {
+    background-color: lightgrey;
+}
+.form {
+    padding-left: 25px;
+}
+.div10 {
+    margin-top: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+    .container {
+        background-color: lightgrey;
+    }
+    .form {
+        padding-left: 25px;
+        width: 100%;
+    }
+    .div1 {
+        width: 100%;
+        position: relative;
+    }
+    .fname {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tfname {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    .div2 {
+        width: 100%;
+        position: relative;
+    }
+    .address1 {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tadd {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div3 {
+        width: 100%;
+        position: relative;
+    }
+    .address2 {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tadd2 {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div4 {
+        width: 100%;
+        position: relative;
+    }
+    .City {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tcity {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div5 {
+        width: 100%;
+        position: relative;
+    }
+    .State {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tstate {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div6 {
+        width: 100%;
+        position: relative;
+    }
+    .pincode {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tpin {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div7 {
+        width: 100%;
+        position: relative;
+    }
+    .country {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tcountry {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div8 {
+        width: 100%;
+        position: relative;
+    }
+    .Email {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .temail {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+    .div9 {
+        width: 100%;
+        position: relative;
+    }
+    .phone {
+        width: 50%;
+        float: left;
+        padding-top: 25px;
+        position: relative;
+        
+    }
+    .tphone {
+        width: 50%;
+        float: right;
+        position: absolute;
+        left: 300px;
+        top: 25px;
+     
+    }
+
+}
